@@ -68,9 +68,9 @@ drive.mount('/content/drive')
 
 <h3>Option B: Run Locally</h3>
 <pre>
-git clone https://github.com/&lt;your-username&gt;/&lt;your-repo&gt;.git
-cd &lt;your-repo&gt;
-pip install -r requirements.txt
+git clone https://github.com/vidhiimishraa20/ISOM-835-Predictive-Analytics-and-Machine-Learning.git
+cd ISOM-835-Predictive-Analytics-and-Machine-Learning
+pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook
 </pre>
 
